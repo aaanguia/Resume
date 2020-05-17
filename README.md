@@ -4,5 +4,5 @@ This was adapted from the template [here](https://github.com/sb2nov/resume), wit
 
 
 # Credits
-Original template from [here](https://github.com/sb2nov/resume) (From original Template ReadMe - Alex A)
-I Alex am utilizing https://github.com/lcfyi template. 
+> Original template from [here](https://github.com/sb2nov/resume) (From original Template ReadMe - Alex A)
+> I Alex am utilizing https://github.com/lcfyi template. 
