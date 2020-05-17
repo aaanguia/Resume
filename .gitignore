@@ -3,7 +3,9 @@
 
 ## Blocking Other Files I Think No One Would Need ##
 .out
+
 .log
+
 .aux
 
 
