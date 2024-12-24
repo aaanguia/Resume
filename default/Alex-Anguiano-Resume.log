@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.12)  22 DEC 2024 23:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.10.12) (preloaded format=pdflatex 2023.12.12)  23 DEC 2024 22:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -157,8 +157,7 @@ ex.def
 File: l3backend-pdftex.def 2023-11-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count199
 \l__pdf_internal_box=\box53
-)
-No file Alex-Anguiano-Resume.aux.
+) (Alex-Anguiano-Resume.aux)
 \openout1 = `Alex-Anguiano-Resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
@@ -273,10 +272,10 @@ L3 programming layer <2023-11-09>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3656 strings out of 474586
- 62605 string characters out of 5746152
+ 3659 strings out of 474586
+ 62729 string characters out of 5746152
  1934558 words of memory out of 5000000
- 25809 multiletter control sequences out of 15000+600000
+ 25810 multiletter control sequences out of 15000+600000
  567718 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,6n,79p,516b,230s stack positions out of 10000i,1000n,20000p,200000b,200000s
